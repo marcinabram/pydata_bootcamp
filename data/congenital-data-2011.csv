@@ -1,0 +1,555 @@
+Type,Specific Procedure,Hospital or National Aggregate (National Aggregate includes Scotland/N Ireland/Wales/private sector),Procedures,Paediatric,AlivePaed30d,DeadPaed30d,ACHD,AliveACHD30d,DeadACHD30d
+Surgery,Anomalous coronary artery repair,National,77,56,56,0,15,15,0
+Surgery,Anomalous coronary artery repair,Great Ormond Street Hospital for Sick Children,13,11,11,0,0,0,0
+Surgery,Anomalous coronary artery repair,Glenfield Hospital,9,9,9,0,0,0,0
+Surgery,Anomalous coronary artery repair,Wessex Cardiothoracic Centre Southampton,8,5,5,0,3,3,0
+Surgery,Anomalous coronary artery repair,Freeman Hospital,6,6,6,0,0,0,0
+Surgery,Anomalous coronary artery repair,Royal Brompton Hospital,6,4,4,0,1,1,0
+Surgery,Anomalous coronary artery repair,Guy's Hospital,5,4,4,0,1,1,0
+Surgery,Anomalous coronary artery repair,Bristol Children's Hospital,5,1,1,0,3,3,0
+Surgery,Anomalous coronary artery repair,Birmingham Childrens Hospital,3,3,3,0,0,0,0
+Surgery,Anomalous coronary artery repair,Yorkshire Heart Centre,3,2,2,0,0,0,0
+Surgery,Anomalous coronary artery repair,Royal Liverpool Children's Hospital,2,2,2,0,0,0,0
+Surgery,Aortic root replacement (not Ross),National,197,41,37,4,149,146,3
+Surgery,Aortic root replacement (not Ross),Royal Brompton Hospital,27,4,4,0,23,23,0
+Surgery,Aortic root replacement (not Ross),Wessex Cardiothoracic Centre Southampton,19,2,2,0,16,14,2
+Surgery,Aortic root replacement (not Ross),Bristol Children's Hospital,14,3,3,0,11,11,0
+Surgery,Aortic root replacement (not Ross),Guy's Hospital,13,4,4,0,8,8,0
+Surgery,Aortic root replacement (not Ross),Glenfield Hospital,13,2,2,0,11,11,0
+Surgery,Aortic root replacement (not Ross),Freeman Hospital,10,2,1,1,7,7,0
+Surgery,Aortic root replacement (not Ross),Great Ormond Street Hospital for Sick Children,8,8,8,0,0,0,0
+Surgery,Aortic root replacement (not Ross),Birmingham Childrens Hospital,6,6,4,2,0,0,0
+Surgery,Aortic root replacement (not Ross),Royal Liverpool Children's Hospital,5,3,2,1,2,2,0
+Surgery,Aortic Valve Replacement - non Ross,National,484,59,59,0,417,413,4
+Surgery,Aortic Valve Replacement - non Ross,Bristol Children's Hospital,51,12,12,0,38,38,0
+Surgery,Aortic Valve Replacement - non Ross,Wessex Cardiothoracic Centre Southampton,41,6,6,0,33,33,0
+Surgery,Aortic Valve Replacement - non Ross,Royal Brompton Hospital,41,1,1,0,39,39,0
+Surgery,Aortic Valve Replacement - non Ross,Glenfield Hospital,40,4,4,0,36,36,0
+Surgery,Aortic Valve Replacement - non Ross,Guy's Hospital,36,7,7,0,27,26,1
+Surgery,Aortic Valve Replacement - non Ross,Golden Jubilee Hospital Glasgow,27,1,1,0,26,26,0
+Surgery,Aortic Valve Replacement - non Ross,Yorkshire Heart Centre,26,6,6,0,20,19,1
+Surgery,Aortic Valve Replacement - non Ross,Birmingham Childrens Hospital,18,14,14,0,3,3,0
+Surgery,Aortic Valve Replacement - non Ross,Royal Liverpool Children's Hospital,3,1,1,0,2,2,0
+Surgery,Aortic Valve Replacement - non Ross,Great Ormond Street Hospital for Sick Children,3,1,1,0,2,2,0
+Surgery,Aortic valve replacement - Ross,National,160,97,97,0,59,59,0
+Surgery,Aortic valve replacement - Ross,Freeman Hospital,39,9,9,0,29,29,0
+Surgery,Aortic valve replacement - Ross,Royal Brompton Hospital,26,14,14,0,11,11,0
+Surgery,Aortic valve replacement - Ross,Great Ormond Street Hospital for Sick Children,18,18,18,0,0,0,0
+Surgery,Aortic valve replacement - Ross,Bristol Children's Hospital,15,10,10,0,5,5,0
+Surgery,Aortic valve replacement - Ross,Birmingham Childrens Hospital,14,13,13,0,0,0,0
+Surgery,Aortic valve replacement - Ross,Guy's Hospital,14,8,8,0,6,6,0
+Surgery,Aortic valve replacement - Ross,Wessex Cardiothoracic Centre Southampton,11,9,9,0,2,2,0
+Surgery,Aortic valve replacement - Ross,Glenfield Hospital,4,4,4,0,0,0,0
+Surgery,Aortic valve replacement - Ross,Royal Liverpool Children's Hospital,1,1,1,0,0,0,0
+Surgery,Aortic valve replacement - Ross,Yorkshire Heart Centre,1,1,1,0,0,0,0
+Surgery,Aortic valvoplasty,National,93,66,64,2,20,19,1
+Surgery,Aortic valvoplasty,Freeman Hospital,13,9,8,1,4,4,0
+Surgery,Aortic valvoplasty,Guy's Hospital,12,12,12,0,0,0,0
+Surgery,Aortic valvoplasty,Birmingham Childrens Hospital,8,7,7,0,0,0,0
+Surgery,Aortic valvoplasty,Wessex Cardiothoracic Centre Southampton,8,5,5,0,2,2,0
+Surgery,Aortic valvoplasty,Royal Brompton Hospital,6,6,6,0,0,0,0
+Surgery,Aortic valvoplasty,Glenfield Hospital,6,5,4,1,0,0,0
+Surgery,Aortic valvoplasty,Royal Liverpool Children's Hospital,6,4,4,0,2,2,0
+Surgery,Aortic valvoplasty,Yorkshire Heart Centre,6,2,2,0,2,2,0
+Surgery,Aortic valvoplasty,Great Ormond Street Hospital for Sick Children,5,4,4,0,0,0,0
+Surgery,Aortic valvoplasty,Bristol Children's Hospital,4,1,1,0,3,3,0
+Surgery,Aortic valvotomy,National,62,56,56,0,1,1,0
+Surgery,Aortic valvotomy,Birmingham Childrens Hospital,19,17,17,0,0,0,0
+Surgery,Aortic valvotomy,Royal Liverpool Children's Hospital,14,13,13,0,0,0,0
+Surgery,Aortic valvotomy,Royal Brompton Hospital,11,11,11,0,0,0,0
+Surgery,Aortic valvotomy,Freeman Hospital,4,3,3,0,0,0,0
+Surgery,Aortic valvotomy,Guy's Hospital,3,3,3,0,0,0,0
+Surgery,Aortic valvotomy,Bristol Children's Hospital,3,2,2,0,1,1,0
+Surgery,Aortic valvotomy,Great Ormond Street Hospital for Sick Children,3,2,2,0,0,0,0
+Surgery,Aortic valvotomy,Wessex Cardiothoracic Centre Southampton,1,1,1,0,0,0,0
+Surgery,Aortopulmonary window repair,National,20,20,20,0,0,0,0
+Surgery,Aortopulmonary window repair,Great Ormond Street Hospital for Sick Children,3,3,3,0,0,0,0
+Surgery,Aortopulmonary window repair,Royal Brompton Hospital,3,3,3,0,0,0,0
+Surgery,Aortopulmonary window repair,Wessex Cardiothoracic Centre Southampton,3,3,3,0,0,0,0
+Surgery,Aortopulmonary window repair,Royal Liverpool Children's Hospital,2,2,2,0,0,0,0
+Surgery,Aortopulmonary window repair,Bristol Children's Hospital,2,2,2,0,0,0,0
+Surgery,Aortopulmonary window repair,Freeman Hospital,2,2,2,0,0,0,0
+Surgery,Aortopulmonary window repair,Birmingham Childrens Hospital,1,1,1,0,0,0,0
+Surgery,Aortopulmonary window repair,Guy's Hospital,1,1,1,0,0,0,0
+Surgery,Aortopulmonary window repair,Yorkshire Heart Centre,1,1,1,0,0,0,0
+Surgery,Aortopulmonary window repair,John Radcliffe Hospital,1,1,1,0,0,0,0
+Surgery,Arterial shunt,National,515,442,407,35,6,6,0
+Surgery,Arterial shunt,Royal Liverpool Children's Hospital,64,57,53,4,0,0,0
+Surgery,Arterial shunt,Royal Brompton Hospital,51,48,46,2,0,0,0
+Surgery,Arterial shunt,Guy's Hospital,51,45,40,5,1,1,0
+Surgery,Arterial shunt,Great Ormond Street Hospital for Sick Children,50,42,38,4,0,0,0
+Surgery,Arterial shunt,Yorkshire Heart Centre,45,39,36,3,2,2,0
+Surgery,Arterial shunt,Birmingham Childrens Hospital,42,35,32,3,0,0,0
+Surgery,Arterial shunt,Bristol Children's Hospital,28,26,20,6,0,0,0
+Surgery,Arterial shunt,Glenfield Hospital,27,26,25,1,0,0,0
+Surgery,Arterial shunt,Wessex Cardiothoracic Centre Southampton,25,16,14,2,0,0,0
+Surgery,Arterial shunt,Freeman Hospital,21,16,16,0,0,0,0
+Surgery,Arterial shunt,John Radcliffe Hospital,6,4,3,1,1,1,0
+Surgery,Arterial switch (for isolated transposition),National,423,406,401,5,0,0,0
+Surgery,Arterial switch (for isolated transposition),Great Ormond Street Hospital for Sick Children,57,57,57,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Royal Brompton Hospital,53,52,52,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Guy's Hospital,43,41,39,2,0,0,0
+Surgery,Arterial switch (for isolated transposition),Royal Liverpool Children's Hospital,42,40,39,1,0,0,0
+Surgery,Arterial switch (for isolated transposition),Birmingham Childrens Hospital,39,36,36,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Yorkshire Heart Centre,37,34,34,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Bristol Children's Hospital,33,31,31,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Wessex Cardiothoracic Centre Southampton,26,26,26,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Glenfield Hospital,24,24,24,0,0,0,0
+Surgery,Arterial switch (for isolated transposition),Freeman Hospital,22,22,22,0,0,0,0
+Surgery,Arterial switch + VSD closure,National,188,177,175,2,0,0,0
+Surgery,Arterial switch + VSD closure,Guy's Hospital,25,25,25,0,0,0,0
+Surgery,Arterial switch + VSD closure,Great Ormond Street Hospital for Sick Children,22,19,19,0,0,0,0
+Surgery,Arterial switch + VSD closure,Royal Brompton Hospital,21,21,21,0,0,0,0
+Surgery,Arterial switch + VSD closure,Royal Liverpool Children's Hospital,20,20,20,0,0,0,0
+Surgery,Arterial switch + VSD closure,Wessex Cardiothoracic Centre Southampton,18,17,17,0,0,0,0
+Surgery,Arterial switch + VSD closure,Birmingham Childrens Hospital,16,16,15,1,0,0,0
+Surgery,Arterial switch + VSD closure,Yorkshire Heart Centre,13,11,11,0,0,0,0
+Surgery,Arterial switch + VSD closure,Glenfield Hospital,11,11,10,1,0,0,0
+Surgery,Arterial switch + VSD closure,Bristol Children's Hospital,10,10,10,0,0,0,0
+Surgery,Arterial switch + VSD closure,Freeman Hospital,7,7,7,0,0,0,0
+Surgery,ASD repair,National,973,601,601,0,363,361,2
+Surgery,ASD repair,Great Ormond Street Hospital for Sick Children,126,122,122,0,3,3,0
+Surgery,ASD repair,Royal Brompton Hospital,108,64,64,0,43,43,0
+Surgery,ASD repair,Yorkshire Heart Centre,98,74,74,0,22,22,0
+Surgery,ASD repair,Bristol Children's Hospital,82,63,63,0,19,19,0
+Surgery,ASD repair,Wessex Cardiothoracic Centre Southampton,74,46,46,0,28,28,0
+Surgery,ASD repair,Royal Liverpool Children's Hospital,56,56,56,0,0,0,0
+Surgery,ASD repair,Guy's Hospital,48,23,23,0,23,22,1
+Surgery,ASD repair,Birmingham Childrens Hospital,42,41,41,0,1,1,0
+Surgery,ASD repair,Freeman Hospital,31,21,21,0,10,10,0
+Surgery,ASD repair,Glenfield Hospital,29,11,11,0,18,18,0
+Surgery,ASD repair,John Radcliffe Hospital,14,6,6,0,8,8,0
+Surgery,Atrioventricular septal defect (complete) repair,National,509,471,465,6,3,3,0
+Surgery,Atrioventricular septal defect (complete) repair,Royal Brompton Hospital,62,59,59,0,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Great Ormond Street Hospital for Sick Children,60,55,54,1,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Royal Liverpool Children's Hospital,54,53,53,0,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Yorkshire Heart Centre,47,37,36,1,1,1,0
+Surgery,Atrioventricular septal defect (complete) repair,Bristol Children's Hospital,37,34,33,1,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Birmingham Childrens Hospital,31,28,26,2,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Guy's Hospital,30,30,30,0,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Glenfield Hospital,28,28,28,0,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,Wessex Cardiothoracic Centre Southampton,25,22,22,0,1,1,0
+Surgery,Atrioventricular septal defect (complete) repair,Freeman Hospital,19,18,18,0,0,0,0
+Surgery,Atrioventricular septal defect (complete) repair,John Radcliffe Hospital,5,5,5,0,0,0,0
+Surgery,Atrioventricular septal defect (partial) repair,National,317,244,244,0,60,59,1
+Surgery,Atrioventricular septal defect (partial) repair,Royal Brompton Hospital,37,23,23,0,12,11,1
+Surgery,Atrioventricular septal defect (partial) repair,Great Ormond Street Hospital for Sick Children,32,32,32,0,0,0,0
+Surgery,Atrioventricular septal defect (partial) repair,Royal Liverpool Children's Hospital,31,28,28,0,0,0,0
+Surgery,Atrioventricular septal defect (partial) repair,Wessex Cardiothoracic Centre Southampton,31,26,26,0,5,5,0
+Surgery,Atrioventricular septal defect (partial) repair,Guy's Hospital,31,23,23,0,8,8,0
+Surgery,Atrioventricular septal defect (partial) repair,Birmingham Childrens Hospital,27,25,25,0,1,1,0
+Surgery,Atrioventricular septal defect (partial) repair,Bristol Children's Hospital,22,19,19,0,3,3,0
+Surgery,Atrioventricular septal defect (partial) repair,Yorkshire Heart Centre,22,13,13,0,5,5,0
+Surgery,Atrioventricular septal defect (partial) repair,Freeman Hospital,16,8,8,0,6,6,0
+Surgery,Atrioventricular septal defect (partial) repair,Glenfield Hospital,8,7,7,0,1,1,0
+Surgery,Atrioventricular septal defect (partial) repair,John Radcliffe Hospital,2,1,1,0,1,1,0
+Surgery,Atrioventricular septal defect and tetralogy repair,National,26,23,22,1,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Guy's Hospital,7,6,5,1,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Birmingham Childrens Hospital,4,4,4,0,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Great Ormond Street Hospital for Sick Children,4,4,4,0,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Royal Liverpool Children's Hospital,2,2,2,0,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Royal Brompton Hospital,2,2,2,0,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Freeman Hospital,2,1,1,0,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Glenfield Hospital,1,1,1,0,0,0,0
+Surgery,Atrioventricular septal defect and tetralogy repair,Wessex Cardiothoracic Centre Southampton,1,1,1,0,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,National,691,637,629,8,11,11,0
+Surgery,Bidirectional cavopulmonary shunt,Birmingham Childrens Hospital,135,126,123,3,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,Guy's Hospital,82,74,73,1,3,3,0
+Surgery,Bidirectional cavopulmonary shunt,Great Ormond Street Hospital for Sick Children,56,50,50,0,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,Royal Liverpool Children's Hospital,51,48,47,1,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,Royal Brompton Hospital,49,45,45,0,1,1,0
+Surgery,Bidirectional cavopulmonary shunt,Bristol Children's Hospital,47,44,43,1,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,Yorkshire Heart Centre,45,41,41,0,2,2,0
+Surgery,Bidirectional cavopulmonary shunt,Freeman Hospital,38,34,34,0,1,1,0
+Surgery,Bidirectional cavopulmonary shunt,Glenfield Hospital,31,31,31,0,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,Wessex Cardiothoracic Centre Southampton,27,26,26,0,0,0,0
+Surgery,Bidirectional cavopulmonary shunt,John Radcliffe Hospital,2,2,2,0,0,0,0
+Surgery,Cor triatriatum repair,National,36,28,27,1,6,6,0
+Surgery,Cor triatriatum repair,Yorkshire Heart Centre,6,4,4,0,1,1,0
+Surgery,Cor triatriatum repair,Royal Liverpool Children's Hospital,5,5,5,0,0,0,0
+Surgery,Cor triatriatum repair,Great Ormond Street Hospital for Sick Children,5,5,5,0,0,0,0
+Surgery,Cor triatriatum repair,Bristol Children's Hospital,4,3,3,0,1,1,0
+Surgery,Cor triatriatum repair,Royal Brompton Hospital,4,3,2,1,1,1,0
+Surgery,Cor triatriatum repair,Birmingham Childrens Hospital,3,3,3,0,0,0,0
+Surgery,Cor triatriatum repair,John Radcliffe Hospital,2,2,2,0,0,0,0
+Surgery,Cor triatriatum repair,Guy's Hospital,2,1,1,0,1,1,0
+Surgery,Cor triatriatum repair,Wessex Cardiothoracic Centre Southampton,2,1,1,0,0,0,0
+Surgery,Fontan procedure,National,591,517,513,4,14,13,1
+Surgery,Fontan procedure,Birmingham Childrens Hospital,134,102,102,0,1,1,0
+Surgery,Fontan procedure,Great Ormond Street Hospital for Sick Children,78,72,72,0,0,0,0
+Surgery,Fontan procedure,Guy's Hospital,62,60,59,1,1,1,0
+Surgery,Fontan procedure,Royal Liverpool Children's Hospital,50,49,48,1,1,1,0
+Surgery,Fontan procedure,Wessex Cardiothoracic Centre Southampton,37,31,31,0,1,1,0
+Surgery,Fontan procedure,Bristol Children's Hospital,33,30,30,0,0,0,0
+Surgery,Fontan procedure,Freeman Hospital,33,30,30,0,0,0,0
+Surgery,Fontan procedure,Royal Brompton Hospital,31,27,27,0,2,2,0
+Surgery,Fontan procedure,Glenfield Hospital,17,17,17,0,0,0,0
+Surgery,Fontan procedure,Yorkshire Heart Centre,14,8,7,1,4,3,1
+Surgery,Fontan procedure,John Radcliffe Hospital,1,1,1,0,0,0,0
+Surgery,Heart Transplant,National,128,95,90,5,21,19,2
+Surgery,Heart Transplant,Freeman Hospital,70,48,47,1,18,16,2
+Surgery,Heart Transplant,Great Ormond Street Hospital for Sick Children,57,46,42,4,3,3,0
+Surgery,Heart Transplant,Birmingham Childrens Hospital,1,1,1,0,0,0,0
+Surgery,Interrupted aortic arch repair,National,75,64,59,5,3,3,0
+Surgery,Interrupted aortic arch repair,Yorkshire Heart Centre,13,10,9,1,0,0,0
+Surgery,Interrupted aortic arch repair,Great Ormond Street Hospital for Sick Children,10,10,10,0,0,0,0
+Surgery,Interrupted aortic arch repair,Guy's Hospital,6,6,6,0,0,0,0
+Surgery,Interrupted aortic arch repair,Royal Brompton Hospital,6,6,6,0,0,0,0
+Surgery,Interrupted aortic arch repair,Bristol Children's Hospital,6,5,5,0,0,0,0
+Surgery,Interrupted aortic arch repair,Wessex Cardiothoracic Centre Southampton,6,4,4,0,0,0,0
+Surgery,Interrupted aortic arch repair,Royal Liverpool Children's Hospital,5,5,5,0,0,0,0
+Surgery,Interrupted aortic arch repair,John Radcliffe Hospital,3,3,1,2,0,0,0
+Surgery,Interrupted aortic arch repair,Glenfield Hospital,3,2,2,0,0,0,0
+Surgery,Interrupted aortic arch repair,Freeman Hospital,2,2,1,1,0,0,0
+Surgery,Isolated coarctation repair,National,734,679,671,8,27,26,1
+Surgery,Isolated coarctation repair,Great Ormond Street Hospital for Sick Children,83,77,75,2,2,2,0
+Surgery,Isolated coarctation repair,Royal Brompton Hospital,78,71,71,0,0,0,0
+Surgery,Isolated coarctation repair,Bristol Children's Hospital,78,70,70,0,2,2,0
+Surgery,Isolated coarctation repair,Royal Liverpool Children's Hospital,70,69,68,1,0,0,0
+Surgery,Isolated coarctation repair,Yorkshire Heart Centre,70,66,66,0,1,1,0
+Surgery,Isolated coarctation repair,Guy's Hospital,61,55,54,1,5,5,0
+Surgery,Isolated coarctation repair,Birmingham Childrens Hospital,47,47,46,1,0,0,0
+Surgery,Isolated coarctation repair,Wessex Cardiothoracic Centre Southampton,45,40,40,0,3,3,0
+Surgery,Isolated coarctation repair,Freeman Hospital,40,33,33,0,5,4,1
+Surgery,Isolated coarctation repair,Glenfield Hospital,32,32,31,1,0,0,0
+Surgery,Isolated coarctation repair,John Radcliffe Hospital,5,5,5,0,0,0,0
+Surgery,Isolated Pulmonary artery band,National,369,301,284,17,0,0,0
+Surgery,Isolated Pulmonary artery band,Birmingham Childrens Hospital,45,40,39,1,0,0,0
+Surgery,Isolated Pulmonary artery band,Royal Brompton Hospital,40,32,31,1,0,0,0
+Surgery,Isolated Pulmonary artery band,Yorkshire Heart Centre,39,34,32,2,0,0,0
+Surgery,Isolated Pulmonary artery band,Great Ormond Street Hospital for Sick Children,37,32,31,1,0,0,0
+Surgery,Isolated Pulmonary artery band,Royal Liverpool Children's Hospital,36,31,29,2,0,0,0
+Surgery,Isolated Pulmonary artery band,Wessex Cardiothoracic Centre Southampton,25,22,20,2,0,0,0
+Surgery,Isolated Pulmonary artery band,Glenfield Hospital,22,18,18,0,0,0,0
+Surgery,Isolated Pulmonary artery band,Bristol Children's Hospital,21,18,16,2,0,0,0
+Surgery,Isolated Pulmonary artery band,Freeman Hospital,20,16,15,1,0,0,0
+Surgery,Isolated Pulmonary artery band,Guy's Hospital,16,13,11,2,0,0,0
+Surgery,Isolated Pulmonary artery band,John Radcliffe Hospital,3,3,2,1,0,0,0
+Surgery,Mitral valve replacement,National,221,85,83,2,113,110,3
+Surgery,Mitral valve replacement,Yorkshire Heart Centre,31,15,15,0,7,7,0
+Surgery,Mitral valve replacement,Bristol Children's Hospital,21,4,4,0,14,14,0
+Surgery,Mitral valve replacement,Royal Brompton Hospital,20,9,9,0,11,11,0
+Surgery,Mitral valve replacement,Wessex Cardiothoracic Centre Southampton,15,10,10,0,5,5,0
+Surgery,Mitral valve replacement,Glenfield Hospital,15,2,2,0,13,11,2
+Surgery,Mitral valve replacement,Birmingham Childrens Hospital,14,11,10,1,2,2,0
+Surgery,Mitral valve replacement,Freeman Hospital,13,4,4,0,7,7,0
+Surgery,Mitral valve replacement,Great Ormond Street Hospital for Sick Children,11,9,9,0,1,1,0
+Surgery,Mitral valve replacement,Royal Liverpool Children's Hospital,8,7,6,1,0,0,0
+Surgery,Mitral valve replacement,Guy's Hospital,6,3,3,0,3,3,0
+Surgery,Mitral valve replacement,John Radcliffe Hospital,1,1,1,0,0,0,0
+Surgery,Multiple VSD Closure,National,32,31,30,1,0,0,0
+Surgery,Multiple VSD Closure,Birmingham Childrens Hospital,5,5,5,0,0,0,0
+Surgery,Multiple VSD Closure,Great Ormond Street Hospital for Sick Children,5,4,4,0,0,0,0
+Surgery,Multiple VSD Closure,Yorkshire Heart Centre,4,4,4,0,0,0,0
+Surgery,Multiple VSD Closure,Royal Brompton Hospital,3,3,3,0,0,0,0
+Surgery,Multiple VSD Closure,Glenfield Hospital,2,2,2,0,0,0,0
+Surgery,Multiple VSD Closure,Guy's Hospital,2,2,2,0,0,0,0
+Surgery,Multiple VSD Closure,Wessex Cardiothoracic Centre Southampton,2,2,2,0,0,0,0
+Surgery,Multiple VSD Closure,Royal Liverpool Children's Hospital,1,1,1,0,0,0,0
+Surgery,Norwood procedure (Stage 1),National,365,340,299,41,0,0,0
+Surgery,Norwood procedure (Stage 1),Birmingham Childrens Hospital,99,93,87,6,0,0,0
+Surgery,Norwood procedure (Stage 1),Guy's Hospital,61,59,48,11,0,0,0
+Surgery,Norwood procedure (Stage 1),Great Ormond Street Hospital for Sick Children,37,33,29,4,0,0,0
+Surgery,Norwood procedure (Stage 1),Royal Liverpool Children's Hospital,27,26,20,6,0,0,0
+Surgery,Norwood procedure (Stage 1),Glenfield Hospital,19,16,14,2,0,0,0
+Surgery,Norwood procedure (Stage 1),Wessex Cardiothoracic Centre Southampton,15,13,13,0,0,0,0
+Surgery,Norwood procedure (Stage 1),Bristol Children's Hospital,14,14,13,1,0,0,0
+Surgery,Norwood procedure (Stage 1),Freeman Hospital,14,12,11,1,0,0,0
+Surgery,Norwood procedure (Stage 1),Royal Brompton Hospital,12,10,8,2,0,0,0
+Surgery,PDA ligation (surgical),National,1201,1190,1146,44,0,0,0
+Surgery,PDA ligation (surgical),Great Ormond Street Hospital for Sick Children,181,178,173,5,0,0,0
+Surgery,PDA ligation (surgical),Guy's Hospital,157,156,149,7,0,0,0
+Surgery,PDA ligation (surgical),Wessex Cardiothoracic Centre Southampton,119,119,113,6,0,0,0
+Surgery,PDA ligation (surgical),Royal Liverpool Children's Hospital,108,108,102,6,0,0,0
+Surgery,PDA ligation (surgical),Bristol Children's Hospital,98,98,95,3,0,0,0
+Surgery,PDA ligation (surgical),Royal Brompton Hospital,90,88,86,2,0,0,0
+Surgery,PDA ligation (surgical),Freeman Hospital,70,70,67,3,0,0,0
+Surgery,PDA ligation (surgical),Birmingham Childrens Hospital,66,66,64,2,0,0,0
+Surgery,PDA ligation (surgical),Yorkshire Heart Centre,52,51,49,2,0,0,0
+Surgery,PDA ligation (surgical),Glenfield Hospital,49,49,47,2,0,0,0
+Surgery,PDA ligation (surgical),John Radcliffe Hospital,30,30,28,2,0,0,0
+Surgery,Pulmonary atresia VSD repair,National,125,106,103,3,5,5,0
+Surgery,Pulmonary atresia VSD repair,Birmingham Childrens Hospital,22,21,21,0,0,0,0
+Surgery,Pulmonary atresia VSD repair,Freeman Hospital,18,15,15,0,2,2,0
+Surgery,Pulmonary atresia VSD repair,Guy's Hospital,14,9,9,0,0,0,0
+Surgery,Pulmonary atresia VSD repair,Yorkshire Heart Centre,13,12,12,0,1,1,0
+Surgery,Pulmonary atresia VSD repair,Royal Brompton Hospital,10,10,9,1,0,0,0
+Surgery,Pulmonary atresia VSD repair,Bristol Children's Hospital,10,8,8,0,2,2,0
+Surgery,Pulmonary atresia VSD repair,Great Ormond Street Hospital for Sick Children,5,4,4,0,0,0,0
+Surgery,Pulmonary atresia VSD repair,Glenfield Hospital,5,3,3,0,0,0,0
+Surgery,Pulmonary atresia VSD repair,Wessex Cardiothoracic Centre Southampton,3,1,1,0,0,0,0
+Surgery,Pulmonary valve replacement,National,852,198,193,5,633,625,8
+Surgery,Pulmonary valve replacement,Royal Brompton Hospital,144,23,23,0,121,121,0
+Surgery,Pulmonary valve replacement,Bristol Children's Hospital,78,25,24,1,53,51,2
+Surgery,Pulmonary valve replacement,Yorkshire Heart Centre,65,8,7,1,53,51,2
+Surgery,Pulmonary valve replacement,Freeman Hospital,48,19,18,1,27,26,1
+Surgery,Pulmonary valve replacement,Guy's Hospital,41,14,13,1,26,26,0
+Surgery,Pulmonary valve replacement,Wessex Cardiothoracic Centre Southampton,40,16,16,0,23,23,0
+Surgery,Pulmonary valve replacement,Glenfield Hospital,25,4,4,0,20,20,0
+Surgery,Pulmonary valve replacement,Great Ormond Street Hospital for Sick Children,24,19,19,0,4,4,0
+Surgery,Pulmonary valve replacement,Birmingham Childrens Hospital,20,12,12,0,8,8,0
+Surgery,Pulmonary valve replacement,Royal Liverpool Children's Hospital,15,10,10,0,5,5,0
+Surgery,Pulmonary valve replacement,John Radcliffe Hospital,5,2,2,0,3,3,0
+Surgery,Rastelli procedure,National,59,53,52,1,2,1,1
+Surgery,Rastelli procedure,Guy's Hospital,8,7,7,0,0,0,0
+Surgery,Rastelli procedure,Birmingham Childrens Hospital,7,7,6,1,0,0,0
+Surgery,Rastelli procedure,Royal Liverpool Children's Hospital,7,6,6,0,0,0,0
+Surgery,Rastelli procedure,Bristol Children's Hospital,7,6,6,0,0,0,0
+Surgery,Rastelli procedure,Royal Brompton Hospital,5,5,5,0,0,0,0
+Surgery,Rastelli procedure,Glenfield Hospital,4,4,4,0,0,0,0
+Surgery,Rastelli procedure,Great Ormond Street Hospital for Sick Children,3,3,3,0,0,0,0
+Surgery,Rastelli procedure,Freeman Hospital,2,2,2,0,0,0,0
+Surgery,Rastelli procedure,Yorkshire Heart Centre,2,1,1,0,0,0,0
+Surgery,Rastelli procedure,Wessex Cardiothoracic Centre Southampton,1,1,1,0,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,National,206,194,188,6,4,4,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Royal Liverpool Children's Hospital,32,31,29,2,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Great Ormond Street Hospital for Sick Children,25,24,24,0,1,1,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Guy's Hospital,24,24,23,1,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Royal Brompton Hospital,18,17,17,0,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Birmingham Childrens Hospital,16,16,15,1,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Glenfield Hospital,15,15,15,0,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Bristol Children's Hospital,14,13,12,1,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Wessex Cardiothoracic Centre Southampton,14,12,12,0,2,2,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Freeman Hospital,11,11,11,0,0,0,0
+Surgery,Repair of total anomalous pulmonary venous drainage,Yorkshire Heart Centre,10,6,6,0,1,1,0
+Surgery,Repair of total anomalous pulmonary venous drainage,John Radcliffe Hospital,3,3,3,0,0,0,0
+Surgery,Senning or Mustard procedure,National,10,8,7,1,1,1,0
+Surgery,Senning or Mustard procedure,Bristol Children's Hospital,3,3,3,0,0,0,0
+Surgery,Senning or Mustard procedure,Yorkshire Heart Centre,2,1,1,0,1,1,0
+Surgery,Senning or Mustard procedure,Great Ormond Street Hospital for Sick Children,1,1,1,0,0,0,0
+Surgery,Senning or Mustard procedure,Glenfield Hospital,1,1,1,0,0,0,0
+Surgery,Subvalvar aortic stenosis repair,National,409,330,327,3,60,60,0
+Surgery,Subvalvar aortic stenosis repair,Birmingham Childrens Hospital,54,52,52,0,0,0,0
+Surgery,Subvalvar aortic stenosis repair,Great Ormond Street Hospital for Sick Children,51,44,44,0,4,4,0
+Surgery,Subvalvar aortic stenosis repair,Royal Brompton Hospital,46,41,40,1,4,4,0
+Surgery,Subvalvar aortic stenosis repair,Guy's Hospital,36,30,29,1,4,4,0
+Surgery,Subvalvar aortic stenosis repair,Royal Liverpool Children's Hospital,30,28,28,0,2,2,0
+Surgery,Subvalvar aortic stenosis repair,Yorkshire Heart Centre,30,20,20,0,5,5,0
+Surgery,Subvalvar aortic stenosis repair,Wessex Cardiothoracic Centre Southampton,29,25,25,0,3,3,0
+Surgery,Subvalvar aortic stenosis repair,Bristol Children's Hospital,24,20,20,0,2,2,0
+Surgery,Subvalvar aortic stenosis repair,Freeman Hospital,24,19,19,0,4,4,0
+Surgery,Subvalvar aortic stenosis repair,Glenfield Hospital,11,8,8,0,3,3,0
+Surgery,Subvalvar aortic stenosis repair,John Radcliffe Hospital,7,3,2,1,4,4,0
+Surgery,Supravalvar aortic stenosis repair,National,67,59,56,3,6,6,0
+Surgery,Supravalvar aortic stenosis repair,Great Ormond Street Hospital for Sick Children,12,10,10,0,0,0,0
+Surgery,Supravalvar aortic stenosis repair,Birmingham Childrens Hospital,9,9,8,1,0,0,0
+Surgery,Supravalvar aortic stenosis repair,Wessex Cardiothoracic Centre Southampton,9,8,7,1,1,1,0
+Surgery,Supravalvar aortic stenosis repair,Royal Brompton Hospital,9,6,5,1,3,3,0
+Surgery,Supravalvar aortic stenosis repair,Royal Liverpool Children's Hospital,7,7,7,0,0,0,0
+Surgery,Supravalvar aortic stenosis repair,Glenfield Hospital,4,4,4,0,0,0,0
+Surgery,Supravalvar aortic stenosis repair,Bristol Children's Hospital,3,3,3,0,0,0,0
+Surgery,Supravalvar aortic stenosis repair,Freeman Hospital,3,3,3,0,0,0,0
+Surgery,Supravalvar aortic stenosis repair,Yorkshire Heart Centre,3,3,3,0,0,0,0
+Surgery,TAPVD Repair + Arterial Shunt,National,7,7,2,5,0,0,0
+Surgery,TAPVD Repair + Arterial Shunt,Birmingham Childrens Hospital,3,3,1,2,0,0,0
+Surgery,TAPVD Repair + Arterial Shunt,Guy's Hospital,2,2,1,1,0,0,0
+Surgery,TAPVD Repair + Arterial Shunt,Royal Liverpool Children's Hospital,1,1,0,1,0,0,0
+Surgery,TAPVD Repair + Arterial Shunt,John Radcliffe Hospital,1,1,0,1,0,0,0
+Surgery,Tetralogy repair,National,865,827,821,6,6,6,0
+Surgery,Tetralogy repair,Great Ormond Street Hospital for Sick Children,115,109,107,2,0,0,0
+Surgery,Tetralogy repair,Royal Liverpool Children's Hospital,110,107,107,0,0,0,0
+Surgery,Tetralogy repair,Birmingham Childrens Hospital,80,78,76,2,0,0,0
+Surgery,Tetralogy repair,Royal Brompton Hospital,80,78,78,0,1,1,0
+Surgery,Tetralogy repair,Bristol Children's Hospital,74,73,73,0,0,0,0
+Surgery,Tetralogy repair,Yorkshire Heart Centre,68,64,64,0,1,1,0
+Surgery,Tetralogy repair,Guy's Hospital,65,62,62,0,0,0,0
+Surgery,Tetralogy repair,Wessex Cardiothoracic Centre Southampton,58,53,53,0,0,0,0
+Surgery,Tetralogy repair,Glenfield Hospital,39,37,37,0,0,0,0
+Surgery,Tetralogy repair,Freeman Hospital,37,34,34,0,1,1,0
+Surgery,Tetralogy repair,John Radcliffe Hospital,9,8,8,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,National,26,25,24,1,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Birmingham Childrens Hospital,9,9,8,1,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Great Ormond Street Hospital for Sick Children,4,4,4,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Glenfield Hospital,3,3,3,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Guy's Hospital,2,2,2,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Royal Brompton Hospital,2,2,2,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Wessex Cardiothoracic Centre Southampton,2,2,2,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Yorkshire Heart Centre,2,1,1,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,Freeman Hospital,1,1,1,0,0,0,0
+Surgery,Tetralogy with absent pulmonary valve repair,John Radcliffe Hospital,1,1,1,0,0,0,0
+Surgery,Tricuspid valve replacement,National,106,9,9,0,89,87,2
+Surgery,Tricuspid valve replacement,Bristol Children's Hospital,16,1,1,0,14,14,0
+Surgery,Tricuspid valve replacement,Royal Brompton Hospital,14,1,1,0,13,13,0
+Surgery,Tricuspid valve replacement,Wessex Cardiothoracic Centre Southampton,11,2,2,0,9,9,0
+Surgery,Tricuspid valve replacement,Freeman Hospital,6,1,1,0,5,4,1
+Surgery,Tricuspid valve replacement,Glenfield Hospital,5,2,2,0,3,2,1
+Surgery,Tricuspid valve replacement,Great Ormond Street Hospital for Sick Children,2,2,2,0,0,0,0
+Surgery,Truncus and interruption repair,National,12,12,11,1,0,0,0
+Surgery,Truncus and interruption repair,Birmingham Childrens Hospital,4,4,3,1,0,0,0
+Surgery,Truncus and interruption repair,Bristol Children's Hospital,2,2,2,0,0,0,0
+Surgery,Truncus and interruption repair,Great Ormond Street Hospital for Sick Children,2,2,2,0,0,0,0
+Surgery,Truncus and interruption repair,Royal Liverpool Children's Hospital,1,1,1,0,0,0,0
+Surgery,Truncus and interruption repair,Glenfield Hospital,1,1,1,0,0,0,0
+Surgery,Truncus and interruption repair,Guy's Hospital,1,1,1,0,0,0,0
+Surgery,Truncus arteriosus repair,National,122,109,107,2,0,0,0
+Surgery,Truncus arteriosus repair,Birmingham Childrens Hospital,24,23,22,1,0,0,0
+Surgery,Truncus arteriosus repair,Royal Liverpool Children's Hospital,15,13,12,1,0,0,0
+Surgery,Truncus arteriosus repair,Bristol Children's Hospital,11,9,9,0,0,0,0
+Surgery,Truncus arteriosus repair,Royal Brompton Hospital,10,8,8,0,0,0,0
+Surgery,Truncus arteriosus repair,Yorkshire Heart Centre,9,9,9,0,0,0,0
+Surgery,Truncus arteriosus repair,Great Ormond Street Hospital for Sick Children,9,8,8,0,0,0,0
+Surgery,Truncus arteriosus repair,Freeman Hospital,7,7,7,0,0,0,0
+Surgery,Truncus arteriosus repair,Guy's Hospital,7,7,7,0,0,0,0
+Surgery,Truncus arteriosus repair,Glenfield Hospital,6,6,6,0,0,0,0
+Surgery,Truncus arteriosus repair,Wessex Cardiothoracic Centre Southampton,2,1,1,0,0,0,0
+Surgery,Truncus arteriosus repair,John Radcliffe Hospital,1,1,1,0,0,0,0
+Surgery,VSD Repair,National,1100,1062,1061,1,18,18,0
+Surgery,VSD Repair,Great Ormond Street Hospital for Sick Children,182,181,181,0,0,0,0
+Surgery,VSD Repair,Royal Brompton Hospital,99,92,92,0,4,4,0
+Surgery,VSD Repair,Royal Liverpool Children's Hospital,93,93,92,1,0,0,0
+Surgery,VSD Repair,Yorkshire Heart Centre,93,91,91,0,1,1,0
+Surgery,VSD Repair,Wessex Cardiothoracic Centre Southampton,80,78,78,0,0,0,0
+Surgery,VSD Repair,Guy's Hospital,79,78,78,0,0,0,0
+Surgery,VSD Repair,Birmingham Childrens Hospital,78,77,77,0,0,0,0
+Surgery,VSD Repair,Bristol Children's Hospital,69,69,69,0,0,0,0
+Surgery,VSD Repair,Freeman Hospital,63,60,60,0,0,0,0
+Surgery,VSD Repair,Glenfield Hospital,63,59,59,0,2,2,0
+Surgery,VSD Repair,John Radcliffe Hospital,15,15,15,0,0,0,0
+Catheter,Aortic balloon valvotomy,National,360,308,303,5,28,26,2
+Catheter,Aortic balloon valvotomy,Royal Brompton Hospital,39,34,32,2,2,2,0
+Catheter,Aortic balloon valvotomy,Great Ormond Street Hospital for Sick Children,36,34,34,0,1,1,0
+Catheter,Aortic balloon valvotomy,Yorkshire Heart Centre,35,30,29,1,3,3,0
+Catheter,Aortic balloon valvotomy,Wessex Cardiothoracic Centre Southampton,34,31,31,0,0,0,0
+Catheter,Aortic balloon valvotomy,Glenfield Hospital,33,31,31,0,1,1,0
+Catheter,Aortic balloon valvotomy,Bristol Children's Hospital,32,27,25,2,2,2,0
+Catheter,Aortic balloon valvotomy,Guy's Hospital,30,24,24,0,0,0,0
+Catheter,Aortic balloon valvotomy,Birmingham Childrens Hospital,27,26,26,0,1,1,0
+Catheter,Aortic balloon valvotomy,Royal Liverpool Children's Hospital,24,23,23,0,1,1,0
+Catheter,Aortic balloon valvotomy,Freeman Hospital,18,15,15,0,1,1,0
+Catheter,Aortic balloon valvotomy,John Radcliffe Hospital,5,2,2,0,2,2,0
+Catheter,ASD closure (catheter),National,1904,642,641,1,1229,1225,4
+Catheter,ASD closure (catheter),Royal Brompton Hospital,201,101,100,1,98,98,0
+Catheter,ASD closure (catheter),Bristol Children's Hospital,129,42,42,0,86,86,0
+Catheter,ASD closure (catheter),Glenfield Hospital,121,44,44,0,77,77,0
+Catheter,ASD closure (catheter),Freeman Hospital,110,23,23,0,85,85,0
+Catheter,ASD closure (catheter),Yorkshire Heart Centre,108,35,35,0,71,71,0
+Catheter,ASD closure (catheter),Guy's Hospital,97,50,50,0,46,46,0
+Catheter,ASD closure (catheter),Wessex Cardiothoracic Centre Southampton,97,40,40,0,56,56,0
+Catheter,ASD closure (catheter),Birmingham Childrens Hospital,92,84,84,0,5,5,0
+Catheter,ASD closure (catheter),John Radcliffe Hospital,77,22,22,0,54,53,1
+Catheter,ASD closure (catheter),Great Ormond Street Hospital for Sick Children,54,51,51,0,2,2,0
+Catheter,ASD closure (catheter),Royal Liverpool Children's Hospital,51,46,46,0,2,2,0
+Catheter,ASD closure (catheter),university Hospital of Wales Cardiff,50,2,2,0,48,48,0
+Catheter,Blade atrial septostomy,National,6,4,3,1,0,0,0
+Catheter,Blade atrial septostomy,Bristol Children's Hospital,3,3,2,1,0,0,0
+Catheter,Blade atrial septostomy,Royal Brompton Hospital,2,1,1,0,0,0,0
+Catheter,Coarctation angioplasty,National,63,54,54,0,0,0,0
+Catheter,Coarctation angioplasty,Royal Liverpool Children's Hospital,14,13,13,0,0,0,0
+Catheter,Coarctation angioplasty,Royal Brompton Hospital,12,11,11,0,0,0,0
+Catheter,Coarctation angioplasty,Glenfield Hospital,7,7,7,0,0,0,0
+Catheter,Coarctation angioplasty,Birmingham Childrens Hospital,5,5,5,0,0,0,0
+Catheter,Coarctation angioplasty,Great Ormond Street Hospital for Sick Children,3,3,3,0,0,0,0
+Catheter,Coarctation angioplasty,Bristol Children's Hospital,2,2,2,0,0,0,0
+Catheter,Coarctation angioplasty,Guy's Hospital,2,2,2,0,0,0,0
+Catheter,Coarctation angioplasty,Yorkshire Heart Centre,2,1,1,0,0,0,0
+Catheter,Coarctation angioplasty,John Radcliffe Hospital,1,1,1,0,0,0,0
+Catheter,Coarctation stenting,National,363,118,118,0,234,234,0
+Catheter,Coarctation stenting,Royal Brompton Hospital,49,19,19,0,28,28,0
+Catheter,Coarctation stenting,Bristol Children's Hospital,45,17,17,0,27,27,0
+Catheter,Coarctation stenting,Guy's Hospital,42,12,12,0,30,30,0
+Catheter,Coarctation stenting,Glenfield Hospital,27,5,5,0,21,21,0
+Catheter,Coarctation stenting,Yorkshire Heart Centre,25,6,6,0,19,19,0
+Catheter,Coarctation stenting,Great Ormond Street Hospital for Sick Children,24,18,18,0,6,6,0
+Catheter,Coarctation stenting,John Radcliffe Hospital,18,7,7,0,10,10,0
+Catheter,Coarctation stenting,Wessex Cardiothoracic Centre Southampton,18,4,4,0,14,14,0
+Catheter,Coarctation stenting,Birmingham Childrens Hospital,14,11,11,0,3,3,0
+Catheter,Coarctation stenting,Freeman Hospital,6,2,2,0,4,4,0
+Catheter,Coarctation stenting,Royal Liverpool Children's Hospital,3,3,3,0,0,0,0
+Catheter,Implantable Cardioverter Defibrillator,National,150,63,63,0,84,84,0
+Catheter,Implantable Cardioverter Defibrillator,Yorkshire Heart Centre,47,4,4,0,43,43,0
+Catheter,Implantable Cardioverter Defibrillator,Bristol Children's Hospital,32,13,13,0,18,18,0
+Catheter,Implantable Cardioverter Defibrillator,Guy's Hospital,12,5,5,0,7,7,0
+Catheter,Implantable Cardioverter Defibrillator,Glenfield Hospital,12,4,4,0,8,8,0
+Catheter,Implantable Cardioverter Defibrillator,Royal Liverpool Children's Hospital,11,11,11,0,0,0,0
+Catheter,Implantable Cardioverter Defibrillator,Great Ormond Street Hospital for Sick Children,8,6,6,0,1,1,0
+Catheter,Implantable Cardioverter Defibrillator,Royal Brompton Hospital,4,4,4,0,0,0,0
+Catheter,Implantable Cardioverter Defibrillator,Wessex Cardiothoracic Centre Southampton,3,2,2,0,1,1,0
+Catheter,Implantable Cardioverter Defibrillator,Birmingham Childrens Hospital,1,1,1,0,0,0,0
+Catheter,PDA closure (catheter),National,1585,1462,1461,1,88,88,0
+Catheter,PDA closure (catheter),Birmingham Childrens Hospital,191,184,184,0,3,3,0
+Catheter,PDA closure (catheter),Royal Brompton Hospital,173,158,158,0,14,14,0
+Catheter,PDA closure (catheter),Great Ormond Street Hospital for Sick Children,167,164,164,0,0,0,0
+Catheter,PDA closure (catheter),Royal Liverpool Children's Hospital,150,144,144,0,1,1,0
+Catheter,PDA closure (catheter),Yorkshire Heart Centre,126,114,114,0,10,10,0
+Catheter,PDA closure (catheter),Bristol Children's Hospital,126,112,112,0,9,9,0
+Catheter,PDA closure (catheter),Wessex Cardiothoracic Centre Southampton,112,103,103,0,6,6,0
+Catheter,PDA closure (catheter),Guy's Hospital,108,99,99,0,7,7,0
+Catheter,PDA closure (catheter),Glenfield Hospital,87,77,77,0,8,8,0
+Catheter,PDA closure (catheter),Freeman Hospital,82,78,78,0,4,4,0
+Catheter,PDA closure (catheter),John Radcliffe Hospital,27,24,24,0,2,2,0
+Catheter,PFO closure (catheter),National,2315,13,13,0,2274,2272,2
+Catheter,PFO closure (catheter),John Radcliffe Hospital,262,2,2,0,259,259,0
+Catheter,PFO closure (catheter),Bristol Children's Hospital,224,1,1,0,219,219,0
+Catheter,PFO closure (catheter),St Thomas Hospital,80,1,1,0,79,78,1
+Catheter,PFO closure (catheter),Glenfield Hospital,54,3,3,0,51,51,0
+Catheter,PFO closure (catheter),Freeman Hospital,37,1,1,0,36,36,0
+Catheter,PFO closure (catheter),Guy's Hospital,30,3,3,0,27,27,0
+Catheter,PFO closure (catheter),Great Ormond Street Hospital for Sick Children,1,1,1,0,0,0,0
+Catheter,Pulmonary artery stenting,National,305,216,211,5,66,66,0
+Catheter,Pulmonary artery stenting,Birmingham Childrens Hospital,66,57,57,0,1,1,0
+Catheter,Pulmonary artery stenting,Great Ormond Street Hospital for Sick Children,38,30,30,0,7,7,0
+Catheter,Pulmonary artery stenting,Guy's Hospital,27,19,17,2,7,7,0
+Catheter,Pulmonary artery stenting,Royal Brompton Hospital,27,14,14,0,10,10,0
+Catheter,Pulmonary artery stenting,Bristol Children's Hospital,20,16,16,0,3,3,0
+Catheter,Pulmonary artery stenting,Yorkshire Heart Centre,19,6,5,1,11,11,0
+Catheter,Pulmonary artery stenting,Freeman Hospital,11,10,10,0,1,1,0
+Catheter,Pulmonary artery stenting,John Radcliffe Hospital,11,10,10,0,1,1,0
+Catheter,Pulmonary artery stenting,Glenfield Hospital,9,6,6,0,3,3,0
+Catheter,Pulmonary artery stenting,Wessex Cardiothoracic Centre Southampton,9,5,5,0,3,3,0
+Catheter,Pulmonary artery stenting,Royal Liverpool Children's Hospital,1,1,1,0,0,0,0
+Catheter,Pulmonary balloon valvoplasty,National,702,603,601,2,61,61,0
+Catheter,Pulmonary balloon valvoplasty,Royal Brompton Hospital,93,87,87,0,5,5,0
+Catheter,Pulmonary balloon valvoplasty,Great Ormond Street Hospital for Sick Children,75,71,71,0,0,0,0
+Catheter,Pulmonary balloon valvoplasty,Birmingham Childrens Hospital,70,67,67,0,2,2,0
+Catheter,Pulmonary balloon valvoplasty,Royal Liverpool Children's Hospital,63,61,61,0,0,0,0
+Catheter,Pulmonary balloon valvoplasty,Yorkshire Heart Centre,61,46,46,0,11,11,0
+Catheter,Pulmonary balloon valvoplasty,Bristol Children's Hospital,57,47,46,1,4,4,0
+Catheter,Pulmonary balloon valvoplasty,Wessex Cardiothoracic Centre Southampton,56,46,46,0,8,8,0
+Catheter,Pulmonary balloon valvoplasty,Guy's Hospital,54,46,46,0,4,4,0
+Catheter,Pulmonary balloon valvoplasty,Glenfield Hospital,42,32,32,0,3,3,0
+Catheter,Pulmonary balloon valvoplasty,Freeman Hospital,26,19,19,0,5,5,0
+Catheter,Pulmonary balloon valvoplasty,John Radcliffe Hospital,8,6,6,0,2,2,0
+Catheter,Pulmonary valvotomy (radiofrequency),National,38,18,17,1,1,1,0
+Catheter,Pulmonary valvotomy (radiofrequency),Royal Brompton Hospital,8,3,3,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Royal Liverpool Children's Hospital,6,2,2,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Birmingham Childrens Hospital,4,3,2,1,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Great Ormond Street Hospital for Sick Children,4,1,1,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Guy's Hospital,3,2,2,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Bristol Children's Hospital,2,1,1,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Freeman Hospital,2,1,1,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Glenfield Hospital,2,1,1,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Yorkshire Heart Centre,2,1,1,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),John Radcliffe Hospital,1,1,1,0,0,0,0
+Catheter,Pulmonary valvotomy (radiofrequency),Wessex Cardiothoracic Centre Southampton,1,1,1,0,0,0,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,National,1139,791,791,0,334,334,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Great Ormond Street Hospital for Sick Children,202,173,173,0,27,27,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Bristol Children's Hospital,153,112,112,0,40,40,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Yorkshire Heart Centre,133,96,96,0,36,36,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Guy's Hospital,130,89,89,0,39,39,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Royal Liverpool Children's Hospital,116,89,89,0,27,27,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Birmingham Childrens Hospital,100,76,76,0,22,22,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Glenfield Hospital,69,32,32,0,33,33,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Freeman Hospital,66,57,57,0,9,9,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Royal Brompton Hospital,40,23,23,0,15,15,0
+Catheter,Radiofrequency ablation for supraventricular tachycardia,Wessex Cardiothoracic Centre Southampton,12,5,5,0,7,7,0
+Catheter,Recoarctation angioplasty,National,205,162,160,2,18,18,0
+Catheter,Recoarctation angioplasty,Great Ormond Street Hospital for Sick Children,40,32,32,0,2,2,0
+Catheter,Recoarctation angioplasty,Birmingham Childrens Hospital,39,30,30,0,0,0,0
+Catheter,Recoarctation angioplasty,Royal Brompton Hospital,22,21,21,0,1,1,0
+Catheter,Recoarctation angioplasty,Bristol Children's Hospital,15,13,13,0,1,1,0
+Catheter,Recoarctation angioplasty,Glenfield Hospital,13,13,13,0,0,0,0
+Catheter,Recoarctation angioplasty,Yorkshire Heart Centre,11,8,8,0,3,3,0
+Catheter,Recoarctation angioplasty,Wessex Cardiothoracic Centre Southampton,9,5,5,0,0,0,0
+Catheter,Recoarctation angioplasty,Royal Liverpool Children's Hospital,8,6,6,0,0,0,0
+Catheter,Recoarctation angioplasty,Guy's Hospital,6,5,5,0,1,1,0
+Catheter,Recoarctation angioplasty,John Radcliffe Hospital,4,4,3,1,0,0,0
+Catheter,Recoarctation angioplasty,Freeman Hospital,4,2,2,0,1,1,0
+Catheter,VSD closure (catheter),National,97,46,46,0,43,36,7
+Catheter,VSD closure (catheter),Royal Brompton Hospital,25,15,15,0,8,8,0
+Catheter,VSD closure (catheter),Birmingham Childrens Hospital,22,19,19,0,2,2,0
+Catheter,VSD closure (catheter),John Radcliffe Hospital,8,4,4,0,3,3,0
+Catheter,VSD closure (catheter),Yorkshire Heart Centre,5,1,1,0,4,3,1
+Catheter,VSD closure (catheter),Bristol Children's Hospital,3,2,2,0,1,0,1
+Catheter,VSD closure (catheter),Guy's Hospital,3,2,2,0,1,1,0
+Catheter,VSD closure (catheter),Great Ormond Street Hospital for Sick Children,2,1,1,0,0,0,0
+Catheter,VSD closure (catheter),Wessex Cardiothoracic Centre Southampton,2,1,1,0,1,0,1
